@@ -9,5 +9,4 @@
     - AWS
 - Dockerizing your application
 - Building the image on Github using Actions and pushing to Docker Hub
-- Deploying Docker Hub image to AWS Elastic Beanstalk
-- Making Docker repository private (Optional)
+
